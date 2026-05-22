@@ -1,8 +1,10 @@
 # Tyuijl736
-# Olá, eu sou Kaio Manoel Guimarães Santos♐
-<p align="center">
-  <img src="./Raiden%20Shogun%20GIF%20-%20Raiden%20Shogun%20Baal%20-%20Discover%20%26%20Share%20GIFs.gif" width="700">
-</p>
+
+<!-- Título animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=341539&center=true&vCenter=true&width=600&lines=👋+Olá,+meu+nome+é+Kaio+Manoel!;🚀+Bem-vindo+ao+meu+perfil+no+GitHub!" />
+</h1>
+
 
 
 🎓 Estudante do 3º ano do Curso Técnico em Informática  
@@ -23,3 +25,8 @@
 
 ## 📫 Contato
 Email: skaio2299@gmail.com
+
+## 📊 Estatísticas do GitHub  
+
+
+
